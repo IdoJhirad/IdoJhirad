@@ -11,6 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+check if move to the actual projects and do it in here in short
 -->
 # My Programming Journey
 
