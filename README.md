@@ -1,108 +1,98 @@
-<!--
-**IdoJhirad/IdoJhirad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile
 
-Here are some ideas to get you started:
+Hi, I'm Ido! This repository is a collection of my programming projects, showcasing my journey from mastering foundational data structures in C to building stateful Java systems and exploring innovative modular IoT solutions. Whether you're here to explore my work or collaborate, I hope you'll find something inspiring.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-
-check if move to the actual projects and do it in here in short
--->
-# My Programming Journey
-
-Welcome to my GitHub repository! Here, you'll find projects and learning exercises that showcase my growth as a programmer across various domains and technologies. From building robust C applications to developing feature-rich Java projects and mastering SQL, my repository reflects a diverse range of skills and interests.
+---
 
 ## Table of Contents
 
 - [About Me](#about-me)
-- [Projects](#projects)
+- [Repositories](#repositories)
   - [C Projects](#c-projects)
   - [Java Projects](#java-projects)
-  - [SQL and Database Management](#sql-and-database-management)
-  - [Networking and APIs](#networking-and-apis)
-  - [Other Technologies](#other-technologies)
-- [How to Use](#how-to-use)
+  - [Full-Stack Projects](#full-stack-projects)
 - [Contact Me](#contact-me)
 
 ---
 
 ## About Me
 
-I am a passionate developer with a strong interest in problem-solving and system design. My work spans low-level programming in C, designing stateful systems in Java, exploring the power of SQL for data manipulation, and implementing networking solutions using various protocols.
+I am a passionate software developer with expertise spanning multiple domains. My strengths lie in problem-solving, system design, and implementing scalable solutions. I have hands-on experience with:
 
-## Projects
-
-### C Projects
-- **Data Structur**: bit_array, cBuffer, bst, avl, dhcp, dllist, dvector,hashtable,heap,pq, heapPq, queue, llist, sortedlist, stack, trie
-- **system programing**: data structure: fsa, vsa
-- **algorithem**:  MergeSort, Qsort,knighttour problem, heapSort, Radix sort;
-- **multy threaded**: ping pong, multy threaded counting sort, producer consumer
-- **Mini Shell**: A shell implementation that supports forking and executing commands.
-- **Knight's Tour**: Backtracking algorithm to solve the Knight's Tour problem.
-- **Threaded Counting Sort**: A multi-threaded implementation of Counting Sort.
-- **watch dog Timer**
-### Java Projects
-
-- **Vending Machine**: A state-machine-based vending machine with extensive JUnit testing.
-- **Thread Pool**: A custom implementation of a thread pool with task management.
-- **Reflection Utilities**: Tools for inspecting classes, fields, and methods dynamically.
-- **Directory Monitor**: A utility using `WatchService` to monitor file system changes.
-- **HAshMAp**
-- jeneric linkedlist
-- synchornyzed map
-- chatRoom
-- jarloader
-- java to c
-- prioryty pq
-- Socket programing
-- Generic Iot inferStructhrt incukde website and more note: tell about connection service
-### SQL and Database Management
-
-- Complex queries involving `JOIN`, `MERGE`, and aggregation functions.
-- JDBC integration for IoT and admin database systems.
-- Database design following SOLID principles for extensibility.
-
-### Networking and APIs
-
-- **REST API**: Built using Java's `HttpServer`, handling dynamic endpoints.
-- **UDP Ping-Pong**: A lightweight system demonstrating UDP communication.
-- **Multi-Protocol Server**: Simultaneous handling of TCP and UDP requests using `Selector`.
-
-### Other Technologies
-
-- **Git**: Version control mastery, including custom aliases and GitLab workflows.
-- **Linux**: Hands-on experience with `bluetoothctl`, system debugging, and shell scripting.
-- **IntelliJ IDEA**: Efficient project management and dependency handling.
-
-## How to Use
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd <repo-name>
-   ```
-3. Follow instructions in each project's README or documentation for setup and usage.
-
-## Contact Me
-
-Feel free to reach out if you have questions or suggestions about my projects!
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **System-level Programming**: Developing efficient and optimized solutions in C.
+- **State Machine Systems**: Designing and implementing robust architectures in Java.
+- **Full-Stack Development**: Building end-to-end solutions with modern frameworks.
 
 ---
 
-Thank you for visiting my repository! I hope my work inspires and helps you in your own programming journey.
+## Repositories
+
+### C Projects
+
+#### **Data Structures**
+
+- **Implemented**: Bit array, Circular Buffer, Binary Search Tree, AVL Tree, Dynamic Vector, Doubly Linked List, Stack, Queue, Sorted List, Priority Queue, Trie, Hash Table, Min-Heap, Max-Heap.
+
+#### **System Programming**
+
+- **Implemented Structures**: Fixed-size Allocator (FSA), Variable-size Allocator (VSA).
+
+#### **Algorithms**
+
+- **Sorting**: Merge Sort, Quick Sort, Radix Sort, Heap Sort.
+- **Backtracking**: Knight's Tour problem.
+
+#### **Multithreading**
+
+- Multi-threaded Counting Sort.
+- Producer-Consumer problem.
+- Ping Pong synchronization.
+
+#### **Notable Projects**
+
+- **Mini Shell**: A simple Unix shell that supports forking and executing commands.
+- **Watchdog Timer**: A reliable timer mechanism for monitoring system health.
+
+---
+
+### Java Projects
+
+#### **Notable Implementations**
+
+- **Vending Machine**: A state-machine-based system.
+- **Thread Pool**: Custom implementation for managing threads and tasks efficiently.
+- **Directory Monitor**: A file system monitoring tool using `WatchService`.
+- **Reflection Utilities**: Tools for dynamic inspection of classes and methods.
+- **Generic Structures**: Linked list, synchronized map, and priority queue.
+- **Networking**: Chat room and socket programming.
+
+#### Generic IoT Infrastructure
+
+- Receives and maintains updates from a large collection of IoT devices.
+- Includes runtime plug-and-play capabilities.
+- HTML, CSS, and Tomcat used for front-end and back-end.
+- Supports communication over HTTP, TCP, and UDP protocols.
+- Admin database with JDBC integration.
+- Comprehensive connection service for seamless device integration.
+
+---
+
+### Full-Stack Projects
+
+- **In Progress**: Bank System Application using modern technologies.
+  - Features account management, transaction tracking, and secure APIs.
+
+---
+
+## Contact Me
+
+If you'd like to collaborate or have questions about my work, feel free to reach out:
+
+- **Email**: [Idojhirad@gmail.com](mailto\:Idojhirad@gmail.com)
+
+
+
+---
+
+Thank you for exploring my GitHub repository. I look forward to connecting with you!
 
